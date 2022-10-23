@@ -9,7 +9,7 @@ export function loadUserData() {
     return userSession.loadUserData()
 }
 
-export async function connect() {
+export function connect() {
     return new Promise<FinishedAuthData>((resolve, reject) => {
         showConnect({
             appDetails: {
