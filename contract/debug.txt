@@ -1,3 +1,0 @@
-Computing deployment plan
-note: using existing deployments/default.devnet-plan.yaml
-[?1049hunable to start Devnet: make sure that Docker is installed on this machine and running.
